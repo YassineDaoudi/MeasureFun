@@ -1,6 +1,6 @@
 # MeasureFun
 
-
+App that helps measure real life objects using ARKit2
 
     Steps and Technologies used :
  
